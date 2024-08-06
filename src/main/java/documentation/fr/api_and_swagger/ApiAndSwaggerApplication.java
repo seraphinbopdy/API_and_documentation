@@ -8,6 +8,7 @@ public class ApiAndSwaggerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ApiAndSwaggerApplication.class, args);
+        System.out.println(" test depot github");
     }
 
 }
